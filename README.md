@@ -1,6 +1,8 @@
 
 # Python Playwright Test Automation Framework
 
+[![Playwright Python Tests](https://github.com/Veeramanikantasai/Playwright-Python-Automation-Framework/actions/workflows/playwright-tests.yml/badge.svg)](https://github.com/Veeramanikantasai/Playwright-Python-Automation-Framework/actions/workflows/playwright-tests.yml)
+
 ### End-to-End Web Automation | Python | Playwright | Pytest
 
 A web UI test automation framework developed using Python,
